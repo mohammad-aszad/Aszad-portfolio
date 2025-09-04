@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-br from-cyan-400 to-blue-500 p-1">
             <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center">
               <img 
-                src="project/Aszad-img.jpg" 
+                src="Aszad-img.jpg" 
                 alt="Mohammad Aszad - Data Analyst"
                 className="w-full h-full object-cover object-center rounded-full"
               />
