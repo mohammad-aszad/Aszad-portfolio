@@ -61,7 +61,7 @@ const Hero = () => {
   rel="noopener "
   className="bg-cyan-500 hover:bg-cyan-600 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 flex items-center gap-2"
 >
-    <Download size={20} />
+    {/* <Download size={20} /> */}
     My Resume
   </a>
   <button 
